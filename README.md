@@ -1,3 +1,5 @@
+# Hello and welcome!
+
 - 👋 Hi, I’m @alexandersundquist
 - 👀 I’m interested in coding and machine learning
 - 🌱 I’m currently learning the basics to computer science and machine learning
