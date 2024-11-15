@@ -17,7 +17,7 @@ I am currently on my fourth year of the five year integrated Master's degree in 
 #### Independent courses
   💻 CS50x Introduction to Computer Science
 
-### Personal projects
+#### Personal projects
 Loading...  
 &nbsp;
 
