@@ -6,7 +6,7 @@ I am currently on my fourth year of the five year integrated Master's degree in 
 - You can find the main deliverables for the coding related Master's courses I've taken in [university-courses](https://github.com/alexandersundquist/university-courses).
 - You can also find the deliverables from independent courses I've taken to deepen my knowledge beyond my university courses in [independent-courses](https://github.com/alexandersundquist/independent-courses).
 
-### Currently working on 🎓
+### Currently working on...
 
 #### University courses
   🤖 Modern Machine Learning in Practice  
