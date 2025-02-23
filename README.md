@@ -10,6 +10,7 @@ I am currently on my fourth year of the five year integrated Master's degree in 
 
 #### University courses
   🤖 Statistical Machine Learning
+  
   👨‍💻 Data Engineering 1
 
 #### Independent courses
