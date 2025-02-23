@@ -9,17 +9,14 @@ I am currently on my fourth year of the five year integrated Master's degree in 
 ### Currently working on...
 
 #### University courses
-  🤖 Modern Machine Learning in Practice  
-  🔭 Applied Data Science  
-  ♟️ Strategic Management  
-  🎯 Applied Project Management
+  🤖 Statistical Machine Learning
+  👨‍💻 Data Engineering 1
 
 #### Independent courses
-  💻 CS50x Introduction to Computer Science
+...
 
 #### Personal projects
-Loading...  
-&nbsp;
+...
 
 **See you! 👋**
 
