@@ -6,18 +6,19 @@ I am currently on my fourth year of the five year integrated Master's degree in 
 
 You can find the main deliverables for my university courses here:
 - [1RT700-Statistical-Machine-Learning-Project](https://github.com/alexandersundquist/1RT700-Statistical-Machine-Learning-Project)
-
-- You can also find the deliverables from independent courses I've taken to deepen my knowledge beyond my university courses in [independent-courses](https://github.com/alexandersundquist/independent-courses).
+- [1TD169-Data-Engineering-1-Project](https://github.com/alexandersundquist/1TD169-Data-Engineering-1-Project)
+- [TDT4259-Applied-Data-Science-Project](https://github.com/alexandersundquist/TDT4259-Applied-Data-Science-Project)
+- [TDT4173-Modern-Machine-Learning-In-Practice-Project](https://github.com/alexandersundquist/TDT4173-Modern-Machine-Learning-In-Practice-Project)
 
 ### Currently working on...
 
 #### Current university courses
-  🤖 Reinforcement Learning
+  🤖 [1RT745-Reinforcement-Learning](https://github.com/alexandersundquist/1RT745-Reinforcement-Learning)
   
   👨‍💻 Data Engineering 2
 
 #### Independent courses
-The Odin Project
+- The Odin Project
 
 #### Personal projects
 ...
