@@ -9,9 +9,9 @@ I am currently on my fourth year of the five year integrated Master's degree in 
 ### Currently working on...
 
 #### University courses
-  🤖 Statistical Machine Learning
+  🤖 Reinforcement Learning
   
-  👨‍💻 Data Engineering 1
+  👨‍💻 Data Engineering 2
 
 #### Independent courses
 ...
