@@ -15,7 +15,7 @@ You can find the main deliverables for the following university courses here:
 #### Current university courses
   🤖 [1RT745-Reinforcement-Learning](https://github.com/alexandersundquist/1RT745-Reinforcement-Learning)
   
-  👨‍💻 [Data Engineering 2](https://github.com/alexandersundquist/1TD076--Data-Engineering-2)
+  👨‍💻 [1TD076-Data-Engineering-2](https://github.com/alexandersundquist/1TD076--Data-Engineering-2)
 
 #### Personal projects
 - The Odin Project
