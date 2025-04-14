@@ -18,7 +18,7 @@ You can find the main deliverables for the following university courses here:
   👨‍💻 [1TD076-Data-Engineering-2](https://github.com/alexandersundquist/1TD076-Data-Engineering-2)
 
 #### Personal projects
-- The Odin Project
+- [The Odin Project](https://github.com/alexandersundquist/TOP)
 - [Quant stock trader](https://github.com/Hanadabdullahi/QuantStockTrader) with friends
 
 **See you! 👋**
