@@ -6,7 +6,7 @@ I am currently on my final year of the five year integrated Master's degree in I
 
 You can find the main deliverables for the following university courses here:
 - [1RT700-statistical-machine-learning-project](https://github.com/alexandersundquist/1RT700-Statistical-Machine-Learning-Project)
-- [1TD169-eata-engineering-1-project](https://github.com/alexandersundquist/1TD169-Data-Engineering-1-Project)
+- [1TD169-data-engineering-1-project](https://github.com/alexandersundquist/1TD169-Data-Engineering-1-Project)
 - [TDT4259-applied-data-science-project](https://github.com/alexandersundquist/TDT4259-Applied-Data-Science-Project)
 - [TDT4173-modern-machine-learning-in-practice-project](https://github.com/alexandersundquist/TDT4173-Modern-Machine-Learning-In-Practice-Project)
 - [1RT745-reinforcement-learning](https://github.com/alexandersundquist/1RT745-Reinforcement-Learning)
