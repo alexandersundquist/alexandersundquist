@@ -18,7 +18,7 @@ I am currently on my final year of the five year integrated Master's degree in I
 
 ### University course work
 
-You can find the main deliverables for the following university courses here:
+You can find the main deliverables from my previous university courses here:
 
 #### AI and ML
 - [1RT700-statistical-machine-learning-project](https://github.com/alexandersundquist/1RT700-Statistical-Machine-Learning-Project)
