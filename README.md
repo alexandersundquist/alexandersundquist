@@ -14,7 +14,7 @@ I am currently on my final year of the five year integrated Master's degree in I
   📊 1RT705-advanced-probibalistic-machine-learning
 
 #### Personal projects
-- [The Odin Project](https://github.com/alexandersundquist/TOP)
+- [Web development through The Odin Project](https://github.com/alexandersundquist/TOP)
 
 ### University course work
 
