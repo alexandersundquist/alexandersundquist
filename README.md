@@ -2,9 +2,24 @@
 
 I am currently on my final year of the five year integrated Master's degree in Industrial Economics and Technology Management with a specialization in Data Science and AI at Uppsala University. In my degree, thus far, I have mainly focused on business development and engineering, with touches of computer science and data analysis. For the last two years of the degree, I will be taking a deep dive into machine learning and data science.
 
-### University courses
+
+
+### Currently working on...
+
+#### University courses
+  🤖 1DL340-artificial-intelligence
+  
+  👨‍💻 1RT730-large-language-models-and-societal-consequences-of-artificial-intelligence
+
+  📊 1RT705-advanced-probibalistic-machine-learning
+
+#### Personal projects
+- [The Odin Project](https://github.com/alexandersundquist/TOP)
+
+### University course work
 
 You can find the main deliverables for the following university courses here:
+
 #### AI and ML
 - [1RT700-statistical-machine-learning-project](https://github.com/alexandersundquist/1RT700-Statistical-Machine-Learning-Project)
 - [TDT4173-modern-machine-learning-in-practice-project](https://github.com/alexandersundquist/TDT4173-Modern-Machine-Learning-In-Practice-Project)
@@ -26,18 +41,6 @@ You can find the main deliverables for the following university courses here:
 - [1DL042-programming](https://github.com/alexandersundquist/1DL042-programming)
 - [1TD393-scientific-computing-1](https://github.com/alexandersundquist/1TD393-scientific-computing-1)
 
-
-### Currently working on...
-
-#### University courses
-  🤖 1DL340-artificial-intelligence
-  
-  👨‍💻 1RT730-large-language-models-and-societal-consequences-of-artificial-intelligence
-
-  📊 1RT705-advanced-probibalistic-machine-learning
-
-#### Personal projects
-- [The Odin Project](https://github.com/alexandersundquist/TOP)
 
 **See you! 👋**
 
