@@ -12,12 +12,19 @@ You can find the main deliverables for the following university courses here:
 
 #### Data science
 - [TDT4259-applied-data-science-project](https://github.com/alexandersundquist/TDT4259-Applied-Data-Science-Project)
+- [1TS325-statistical-inference-for-technological-applications](https://github.com/alexandersundquist/1TS325-statistical-inference-for-technological-applications)
+- [1TD352-scientific-computing-for-data-analysis](https://github.com/alexandersundquist/1TD352-scientific-computing-for-data-analysis)
 
 #### Data engineering
 - [1TD169-data-engineering-1](https://github.com/alexandersundquist/1TD169-data-engineering-1)
 - [1TD169-data-engineering-1-project](https://github.com/alexandersundquist/1TD169-Data-Engineering-1-Project)
 - [1TD076-data-engineering-2](https://github.com/alexandersundquist/1TD076-Data-Engineering-2)
-- [1TD076-data-engineering-2-project](https://github.com/alexandersundquist/1TD076-data-engineering-2-project)
+
+#### Computer science
+- [1DL301-database-design-1-project](https://github.com/alexandersundquist/1DL301-database-design-1-project)
+- [1DL210-algorithms-and-data-structures-1](https://github.com/alexandersundquist/1DL210-algorithms-and-data-structures-1)
+- [1DL042-programming](https://github.com/alexandersundquist/1DL042-programming)
+- [1TD393-scientific-computing-1](https://github.com/alexandersundquist/1TD393-scientific-computing-1)
 
 
 ### Currently working on...
