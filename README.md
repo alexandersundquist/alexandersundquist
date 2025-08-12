@@ -1,6 +1,6 @@
 ## Hello and welcome!
 
-I am currently on my final year of the five year integrated Master's degree in Industrial Economics and Technology Management with a specialization in Data Science and AI at Uppsala University. In my degree, thus far, I have mainly focused on business development and engineering, with touches of computer science and data analysis. For the last two years of the degree, I will be taking a deep dive into machine learning and data science.
+I am currently on my final year of the five year integrated Master's degree in Industrial Economics and Technology Management with a specialization in Data Science and AI at Uppsala University. For the first three years of the degree, I focused on business development and engineering, with touches of computer science and data analysis. For the last two years of the degree, I will be taking a deep dive into machine learning and data science.
 
 
 
