@@ -7,7 +7,7 @@ I am currently on my final year of the five year integrated Master's degree in I
 ### Currently working on...
 
 #### University courses
-  👨‍💻 1RT730-large-language-models-and-societal-consequences-of-artificial-intelligence
+  👨‍💻 [1RT730-large-language-models-and-societal-consequences-of-artificial-intelligence](https://github.com/alexandersundquist/1RT730-large-language-models-and-societal-consequences-of-artificial-intelligence)
 
   🤖 [1RT705-advanced-probibalistic-machine-learning](https://github.com/alexandersundquist/1RT705-advanced-probabilistic-machine-learning)
 
